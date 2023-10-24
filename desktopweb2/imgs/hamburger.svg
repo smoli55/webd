@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.058" height="34" viewBox="0 0 24.058 34">
+  <g id="nav" transform="translate(0.5 5.5)">
+    <line id="Line_18" data-name="Line 18" x2="23.058" fill="none" stroke="#c12126" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_19" data-name="Line 19" x2="23.058" transform="translate(0 15)" fill="none" stroke="#c12126" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_20" data-name="Line 20" x2="23.058" transform="translate(0 10)" fill="none" stroke="#c12126" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_21" data-name="Line 21" x2="23.058" transform="translate(0 5)" fill="none" stroke="#c12126" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_24" data-name="Line 24" x2="23.058" transform="translate(0 -5)" fill="none" stroke="#c12126" stroke-linecap="round" stroke-width="1"/>
+    <text id="Menu" transform="translate(11.5 26.5)" fill="#c12126" font-size="10" font-family="Prohibition-Regular, Prohibition"><tspan x="-10.385" y="0">Menu</tspan></text>
+  </g>
+</svg>

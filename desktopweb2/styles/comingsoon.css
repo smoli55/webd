@@ -1,0 +1,198 @@
+
+
+@media all and (max-width: 5000px){
+body{;
+background-color:#F8F1E4;
+display: flex: ;
+justify-content: center;
+border: solid 25px;
+border-color: #1A351A;
+
+}
+/*header*/
+
+.logocontainer{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.logo{
+  width: 600px;
+ vertical-align: middle;
+}
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  font-family: "prohibition", sans-serif;
+  font-size: 22px;
+  color: #C12126;
+}
+a:link{
+  color: #C12126;
+  text-decoration: none;
+}
+a:visited{
+  color: #C12126;
+  text-decoration: none;
+}
+a:hover{
+  color: #D6C263;
+  text-decoration: none;
+}
+a:active{
+  color: #988631;
+  text-decoration: none;
+}
+hr{
+  background-color: #C12126;
+  border: none;
+  width:90%;
+  height: 2px;
+  
+}
+/*main*/
+
+.topcontainer{
+  display: flex;
+  flex-direction: column;
+  color: #C12126;
+  font-family: "prohibition", sans-serif;
+  align-items: center;
+  margin-top: 30px;
+}
+.header{
+  color: #C12126;
+  font-family: "prohibition", sans-serif;
+  font-size: 35px;
+}
+.subheader{
+  color: #C12126;
+  font-family: "prohibition", sans-serif;
+  font-size: 30px;
+  text-decoration: underline;
+  margin-bottom: 75px;
+}
+.hero{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  
+  
+}
+.moviecontainer{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 400px;
+width: 75%;
+gap:50px;
+padding: 20px;
+border: dashed;
+border-color: #C12126;
+
+}
+
+.text{
+width: 500px;
+height: 350px;
+display: flex;
+flex-direction: column;
+text-align: center;
+align-self: center;
+justify-content: flex-start;
+
+}
+.titles{
+  color: #C12126;
+  font-family: "prohibition", sans-serif;
+  font-size: 25px;
+}
+.img{
+
+display: flex;
+align-self: center;
+}
+.directornames{
+  color: #C12126;
+  font-family: "prohibition", sans-serif;
+  font-size: 20px;
+
+}
+.moviedescription{
+  color: #C12126;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  text-align: left;
+
+}
+
+  
+
+.beauisafraidimg{ 
+  width: 500px;
+height: 280.5px;
+  max-height: 400px;}
+.pouletlindaimg{
+  width: 500px;
+height: 280.5px;
+  max-height: 400px;
+}
+.vampireseekingimg{
+width: 500px;
+height: 280.5px;
+  max-height: 400px;
+}
+
+/*footer*/
+
+.footer{
+  background-color: #988631;
+  height: 150px;
+  display: flex;
+  justify-content: space-between;
+  }
+.footercontact{
+  margin-top: 10px;
+  
+}
+.socials{
+  align-self: center;
+  display: flex;
+  gap: 10px;
+  margin-left: 30px;
+}
+.footerinfo{
+  display: flex;
+  text-align: center;
+  font-family: "prohibition", sans-serif;
+  color: #C12126;
+}
+
+.invisibleitem{
+  width: 130px;
+  margin-right: 20px;
+  
+}
+ 
+.facebookicon{
+  width: 40px;
+  height: 40px;
+  opacity: 75%;
+  
+}
+.instagramicon{
+  width: 40px;
+  height: 40px;
+  opacity: 75%;
+  
+}
+.twittericon{
+  width: 42px;
+  height: 40px;
+  opacity: 75%;
+}
+

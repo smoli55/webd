@@ -1,0 +1,176 @@
+
+      @media all and (max-width: 5000px){
+
+        /*header*/
+
+
+      body{;
+      background-color:#F8F1E4;
+      display: flex: ;
+      justify-content: center;
+      border: solid 25px;
+      border-color: #1A351A;
+      
+    }
+      .logocontainer{
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+        margin-bottom: 20px;
+      }
+      .logo{
+       width: 600px;
+       vertical-align: middle;
+      }
+      .navbar{
+        display: flex;
+        justify-content: space-around;
+        font-family: "prohibition", sans-serif;
+        font-size: 22px;
+        color: #C12126;
+      }
+      a:link{
+        color: #C12126;
+        text-decoration: none;
+      }
+      a:visited{
+        color: #C12126;
+        text-decoration: none;
+      }
+      a:hover{
+        color: #D6C263;
+        text-decoration: none;
+      }
+      a:active{
+        color: #988631;
+        text-decoration: none;
+      }
+      hr{
+        background-color: #C12126;
+        border: none;
+        width:90%;
+        height: 2px;
+      }
+      
+      /*main*/
+
+
+      .hero{
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 20px;
+        margin-top: 30px;
+      }
+      .subscribebox{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 700px;
+        
+        margin-top: 25px;
+      }
+      .titlebox{
+        display: flex;
+        justify-content:center;
+        width: 300px;
+        
+        color: #C12126;
+        font-family: "prohibition", sans-serif;
+        font-size: 40px;
+        
+        text-decoration: underline;
+      }
+      .newslettertxt{
+        margin-top: 20px;
+        display: flex;
+        justify-content:center;
+        color: #C12126;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+      }
+      .newslettertxt2{
+        display: flex;
+        justify-content: center;
+        color: #C12126;
+        font-family: "prohibition", sans-serif;
+        font-size: 45px;
+      }
+      .email{
+        border: dashed;
+        border-color: #C12126;
+        color: #C12126;
+        width: 600px;
+        height: 60px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 25px;
+        text-align: center;
+        margin-bottom: 30px;
+        border-radius: 2px;
+
+      }
+      .subscribebutton{
+        width: 600px;
+        height: 60px;
+        background-color: #C12126;
+        color: #F8F1E4;
+        font-family: "prohibition", sans-serif;
+        font-size: 35px;
+        border: none;
+        margin-bottom: 30px;
+        border-radius: 2px;
+
+      }
+
+      /*footer*/
+
+
+      .footer{
+        background-color: #988631;
+        height: 150px;
+        display: flex;
+        justify-content: space-between;
+        }
+      .footercontact{
+        margin-top: 10px;
+        
+      }
+      .socials{
+        align-self: center;
+        display: flex;
+        gap: 10px;
+        margin-left: 30px;
+      }
+      .footerinfo{
+        display: flex;
+        text-align: center;
+        font-family: "prohibition", sans-serif;
+        color: #C12126;
+      }
+     
+      .invisibleitem{
+        width: 130px;
+        margin-right: 20px;
+        
+      }
+       
+      .facebookicon{
+        width: 40px;
+        height: 40px;
+        opacity: 75%;
+        
+      }
+      .instagramicon{
+        width: 40px;
+        height: 40px;
+        opacity: 75%;
+        
+      }
+      .twittericon{
+        width: 42px;
+        height: 40px;
+        opacity: 75%;
+      }
+     
+    }
+ 
